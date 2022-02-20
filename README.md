@@ -10,4 +10,6 @@ This repo is the result of learning and exploring microcontrollers that can be u
 6. Arduino Software IDE
 
 # How to make?
+### First, if you already have all the ingredients, please arrange them like the following picture: 
+![Image Circuit](circuit.png)
 
