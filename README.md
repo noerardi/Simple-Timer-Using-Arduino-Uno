@@ -11,5 +11,7 @@ This repo is the result of learning and exploring microcontrollers that can be u
 
 # How to make?
 ### First, if you already have all the ingredients, please arrange them like the following picture: 
-![Image Circuit]("circuit.png")
+![Image Circuit](https://github.com/noerardi/Simple-Timer-Using-Arduino-Uno/blob/main/circuit.PNG)
 
+### Second, after completing the circuit preparation, please write or copy the main code to the arduino application and upload the file to the microcontroller:
+![Image Circuit](https://github.com/noerardi/Simple-Timer-Using-Arduino-Uno/blob/main/circuit.PNG)
